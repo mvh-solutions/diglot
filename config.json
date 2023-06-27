@@ -1,0 +1,19 @@
+{
+  "translations": [
+    {
+      "lang": "rom",
+      "abbr": "rom",
+      "path": "/home/mark/Desktop/bible_sources/Romani/romani.usfm"
+    },
+    {
+      "lang": "fra",
+      "abbr": "lsg",
+      "path": "/home/mark/Desktop/bible_sources/Romani/francais.usfm"
+    },
+    {
+      "lang": "spa",
+      "abbr": "rv",
+      "path": "/home/mark/Desktop/bible_sources/Romani/espagnol.usfm"
+    }
+  ]
+}
