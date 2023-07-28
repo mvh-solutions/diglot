@@ -1,0 +1,14 @@
+{
+  "translations": [
+    {
+      "lang": "fra",
+      "abbr": "lsg",
+      "path": "/home/mark/repos/sag_usfm/fra/lsg/mat.usfm"
+    },
+    {
+      "lang": "fra",
+      "abbr": "bct",
+      "path": "/home/mark/Documents/tre/centenaire/usfm/MAT.usfm"
+    }
+  ]
+}
